@@ -1,4 +1,5 @@
 🚀 Proyecto Base con React + Vite
+
 Este repositorio contiene un proyecto base creado con React + Vite, ideal para comenzar a desarrollar aplicaciones web modernas con una estructura limpia, rápida y con soporte para recarga en caliente (HMR).
 
 🛠️ Tecnologías utilizadas
