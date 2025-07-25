@@ -1,8 +1,7 @@
 🚀 Proyecto Base con React + Vite
+Este repositorio contiene un proyecto base creado con React + Vite, ideal para iniciar el desarrollo de aplicaciones web modernas con una estructura clara, rendimiento veloz y soporte para recarga en caliente (HMR).
 
-Este repositorio contiene un proyecto base creado con React + Vite, ideal para comenzar a desarrollar aplicaciones web modernas con una estructura limpia, rápida y con soporte para recarga en caliente (HMR).
-
-🛠️ Tecnologías utilizadas
+🛠️ Tecnologías Utilizadas
 ⚛️ React
 
 ⚡ Vite
@@ -13,14 +12,14 @@ Este repositorio contiene un proyecto base creado con React + Vite, ideal para c
 
 🧹 ESLint (reglas mínimas integradas)
 
-📦 Instalación del proyecto
+📦 Instalación del Proyecto
 Clona el repositorio y ejecuta los siguientes comandos:
 
 bash
 Copiar
 Editar
 # Clonar el repositorio
-git clone https://github.com/tu-usuario/tu-repo.git
+git clone https://github.com/jhans11/tu-repo.git
 
 # Entrar al directorio
 cd nombre-del-proyecto
@@ -30,38 +29,39 @@ npm install
 
 # Iniciar el servidor de desarrollo
 npm run dev
-📂 Estructura básica del proyecto
+📁 Estructura Básica del Proyecto
 bash
 Copiar
 Editar
 📁 src/
-│ ├── assets/         # Archivos estáticos (imágenes, íconos, etc.)
-│ ├── components/     # Componentes reutilizables de React
-│ ├── App.jsx         # Componente principal
-│ ├── main.jsx        # Punto de entrada de la aplicación
-│
-📄 index.html          # HTML base
-📄 vite.config.js      # Configuración de Vite
-✨ Características
-⚡ Renderizado rápido gracias a Vite
+│  ├── assets/         # Archivos estáticos (imágenes, íconos, etc.)
+│  ├── components/     # Componentes reutilizables de React
+│  ├── App.jsx         # Componente principal de la aplicación
+│  └── main.jsx        # Punto de entrada de React
+📄 index.html           # HTML base
+📄 vite.config.js       # Configuración de Vite
+✨ Características Principales
+⚡ Renderizado rápido con Vite
 
-🔄 Hot Module Replacement (HMR)
+🔄 Soporte para Hot Module Replacement (HMR)
 
-🧠 Preparado para usar ESLint
+🧠 Linter básico con ESLint
 
-🚀 Ideal como punto de partida para proyectos personales o profesionales
+💡 Ideal como punto de partida para proyectos personales o profesionales
 
-📈 En desarrollo
-Estamos integrando nuevas funcionalidades:
+🔧 En Desarrollo
+Estamos integrando próximamente:
 
- Rutas con React Router
+📍 Rutas con React Router
 
- Manejo de estado con Context o Redux
+🧠 Manejo de estado con Context API o Redux
 
- Diseño responsive con Tailwind o CSS puro
+📱 Diseño responsive con Tailwind CSS o CSS puro
 
- Backend simulado con JSON Server o API real
+🔙 Backend simulado con JSON Server o conexión a una API real
 
 👨‍💻 Autor
-Desarrollado por Jhans Jiménez
+Desarrollado con pasión por:
+
+Jhans Jiménez
 🔗 GitHub: github.com/jhans11
